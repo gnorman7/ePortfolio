@@ -1,6 +1,6 @@
 # Resume
 
-<a href="gnorman7.github.io/pdfs/Resume_MostRecent.pdf" target="_blank">PDF.</a>
+<a href="gnorman7.github.io/tree/master/pdfs" target="_blank">Resume PDF link (Opens in Browser)</a>
 
 # Philosophy of Education
 
